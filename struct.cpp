@@ -21,5 +21,10 @@ int main() {
 
     cout << endl;
 
-   
+    // Menampilkan Isi Obyek
+    cout << "Nama : " << mhs.nama << endl;
+    cout << "Alamat : " << mhs.alamat << endl;
+    cout << "Umur : " << mhs.umur << endl;
+
+    return 0;
 }
