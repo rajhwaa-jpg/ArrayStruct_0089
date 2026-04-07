@@ -13,5 +13,8 @@ struct orang {
 };
 
 int main() {
- 
+    // Deklarasi obyek dari struct orang
+    orang mhs;
+
+   
 }
